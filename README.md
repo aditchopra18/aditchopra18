@@ -1,7 +1,11 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi,%20I%20am%20Adit👋👨‍💻"/>
 </p>
-
+### About Me 🚀
+💻  I am currently a General Engineering student at NYUAD, driven by a passion for learning and applying Interdisciplinary concepts. </br>
+👨‍💻  I am passionate about Data Science & enjoy exploring the intersection of engineering, data, and decision-making. </br>
+🌐  I am always eager to work on projects that are rooted in analytical thinking and have a real-world impact. </br>
+🎨  I enjoy expressing my creativity through pencil sketching and 3D modeling. </br>
 <!--
 **aditchopra18/aditchopra18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
